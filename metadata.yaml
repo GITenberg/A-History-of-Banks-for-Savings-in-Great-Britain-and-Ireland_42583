@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41539'
     url: http://www.gutenberg.org/2009/agents/41539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42583#A-History-of-Banks-for-Savings-in-Great-Britain-and-Ireland
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
 identifiers:
